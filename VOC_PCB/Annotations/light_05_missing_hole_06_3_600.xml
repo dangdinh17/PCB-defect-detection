@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>
+  <folder>JPEGImages</folder>
+  <filename>light_05_missing_hole_06_3_256</filename>
+  <path>F:\PCB\PCB_DATASET_New\VOCPCB_800\_crop_600\JPEGImages\light_05_missing_hole_06_3_256.jpg</path>
+  <size>
+    <width>600</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>missing_hole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>197</xmin>
+      <ymin>498</ymin>
+      <xmax>220</xmax>
+      <ymax>520</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>missing_hole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>146</xmin>
+      <ymin>69</ymin>
+      <xmax>174</xmax>
+      <ymax>95</ymax>
+    </bndbox>
+  </object>
+</annotation>
